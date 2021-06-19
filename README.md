@@ -1,2 +1,2 @@
 # noiceBot
-Discord bot developed my Mo Oruc for Schatz Capital.
+Discord bot developed by Mo Oruc for Schatz Capital.
